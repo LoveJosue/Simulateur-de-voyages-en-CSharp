@@ -14,6 +14,7 @@ Voici une brève explication du programme. Les captures illustrent son fonctionn
 | :--- | :--- |
 | Lock | C# |
 | Threads |
+| Enum |
 | Orienté objet |
 | Encapsulation |
 | Strucutre de donnée -> `List` |
