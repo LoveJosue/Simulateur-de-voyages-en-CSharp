@@ -1,6 +1,6 @@
 # Build results
-bin/
-obj/
+[Bb]in/
+[Oo]bj/
 
 # User-specific files
 *.user
@@ -35,3 +35,6 @@ iisexpress/
 *.dll
 *.pdb
 *.cache
+
+# Mac .DS_Store files
+.DS_Store

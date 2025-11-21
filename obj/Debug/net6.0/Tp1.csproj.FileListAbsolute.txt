@@ -26,3 +26,18 @@
 /Users/josueavlah/Desktop/Projets web/HelloWorld/Tp1/obj/Debug/net6.0/Tp1.pdb
 /Users/josueavlah/Desktop/Projets web/HelloWorld/Tp1/obj/Debug/net6.0/Tp1.genruntimeconfig.cache
 /Users/josueavlah/Desktop/Projets web/HelloWorld/Tp1/obj/Debug/net6.0/ref/Tp1.dll
+/Users/josueavlah/Desktop/Tp1/bin/Debug/net6.0/Tp1
+/Users/josueavlah/Desktop/Tp1/bin/Debug/net6.0/Tp1.deps.json
+/Users/josueavlah/Desktop/Tp1/bin/Debug/net6.0/Tp1.runtimeconfig.json
+/Users/josueavlah/Desktop/Tp1/bin/Debug/net6.0/Tp1.dll
+/Users/josueavlah/Desktop/Tp1/bin/Debug/net6.0/Tp1.pdb
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.AssemblyInfoInputs.cache
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.AssemblyInfo.cs
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.csproj.CoreCompileInputs.cache
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.sourcelink.json
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.dll
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/refint/Tp1.dll
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.pdb
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/Tp1.genruntimeconfig.cache
+/Users/josueavlah/Desktop/Tp1/obj/Debug/net6.0/ref/Tp1.dll
