@@ -1,4 +1,4 @@
-# Simulateur-de-voyages-en-C-
+# Simulateur de voyages
 Application console C# de simulation de voyages. Dans une zone donnée, des taxis placés à des points de départ aléatoires se font assigner des voyages dans la zone par des téléphonistes.
 
 # Fil d'exécution du programme
