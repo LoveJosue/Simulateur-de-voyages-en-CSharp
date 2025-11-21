@@ -3,8 +3,8 @@ Application console C# de simulation de voyages. Dans une zone donnée, des taxi
 
 # Fil d'exécution du programme
 Voici une brève explication du programme. Les captures montrent un exemple de course effectué par un taxi. Prêtez attentions aux coordonnées **(x,y)** au **numéro de taxi** et de **client**.
-![Fil d'exécution 1 du programme](captures/Trace-1.png)
-![Fil d'exécution 2 du programme](captures/Trace-2.png)
+![Fil d'exécution 1 du programme](/docs/captures/Trace-1.png)
+![Fil d'exécution 2 du programme](/docs/captures/Trace-2.png)
 
 # Énoncé du travail
 [Consultez l'énoncé du travail](docs/énoncé/TP.pdf)
